@@ -1,0 +1,37 @@
+[
+  {
+    "title": "the lord of the rings",
+    "author": "j.r.r. tolkien",
+    "genre": "fantasy",
+    "publication date": "1954-10-20",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51y54l54FJL.jpg"
+  },
+  {
+    "title": "pride and prejudice",
+    "author": "jane austen",
+    "genre": "romance",
+    "publication date": "1813-01-28",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/5154a254p5L.jpg"
+  },
+  {
+    "title": "the hitchhiker's guide to the galaxy",
+    "author": "douglas adams",
+    "genre": "science fiction",
+    "publication date": "1979-10-12",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/4154a554a5L.jpg"
+  },
+  {
+    "title": "to kill a mockingbird",
+    "author": "harper lee",
+    "genre": "fiction",
+    "publication date": "1960-07-11",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41544a5454L.jpg"
+  },
+  {
+    "title": "the book thief",
+    "author": "markus zusak",
+    "genre": "historical fiction",
+    "publication date": "2005-03-14",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41544554a5L.jpg"
+  }
+]
